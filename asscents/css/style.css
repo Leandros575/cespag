@@ -18,8 +18,32 @@ body {
 
 
 .about .container .col-1 { 
-    display: inline-block;
+    text-align: center;
 }
 
 
 
+.about .container .col-1 img { 
+    
+}
+
+
+
+.about .container .col-1 h1 { 
+    color: red;
+}
+
+
+.about .container .col-1 p { 
+
+}
+
+
+.about .container .col-1 .email { 
+    margin: 0px 50px 0px 20px;
+    padding: 0px 50px 20px 90px;
+}
+
+
+.about .container .col-1 .pass { 
+}

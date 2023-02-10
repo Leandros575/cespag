@@ -4,3 +4,22 @@ body {
 }
 
 
+.about { 
+    width: 980px;
+    margin: 0 auto;
+    display: flex;
+    height: 700px;
+    align-items: center;
+    background-color: #ffff;
+}
+
+.about .container { 
+}
+
+
+.about .container .col-1 { 
+    display: inline-block;
+}
+
+
+

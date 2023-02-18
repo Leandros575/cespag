@@ -40,10 +40,12 @@ body {
 
 
 .about .container .col-1 .email { 
-    margin: 0px 50px 0px 20px;
-    padding: 0px 50px 20px 90px;
+    display: flex;
+    margin: 0 auto;
 }
 
 
 .about .container .col-1 .pass { 
+    display: flex;
+    margin: 0 auto;
 }
